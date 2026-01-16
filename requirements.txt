@@ -1,0 +1,10 @@
+numpy<2.3
+scipy<1.15
+pandas
+scikit-learn
+xgboost
+matplotlib
+seaborn
+holidays
+openpyxl
+jupyterlab
