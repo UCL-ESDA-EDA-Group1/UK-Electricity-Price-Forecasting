@@ -13,7 +13,7 @@ This repository contains the **final runnable pipeline (Sections 4–6)** of our
 ---
 
 ## Key results (test set)
-- **Price forecasting (XGBoost + SVR):** R² ≈ **0.88**, RMSE ≈ **12.43 EUR/MWh**, MAE ≈ **8.71 EUR/MWh**
+- **Price forecasting (XGBoost + SVR):** R² ≈ **0.87**, RMSE ≈ **13.35 EUR/MWh**, MAE ≈ **8.71 EUR/MWh**
 - **Extreme price spike detection (95th percentile):** F1 ≈ **0.63**
 - **Battery arbitrage backtest (100 MW / 200 MWh):** ~**€3.99M**, capturing ~**90%** of perfect-foresight upper bound
 
