@@ -19,19 +19,16 @@ This repository contains the **final runnable pipeline (Sections 4–6)** of our
 
 <table>
   <tr>
-    <th width="33%">Model Performance</th>
-    <th width="33%">Forecast Example</th>
-    <th width="33%">Backtest Results</th>
+    <th width="50%">Model Performance</th>
+    <th width="50%">Forecast & Backtest</th>
   </tr>
   <tr>
-    <td valign="top" width="33%">
-      <img src="https://github.com/user-attachments/assets/1b38d7e0-8257-4c48-aaa2-178e110800eb" width="100%" alt="Model Comparison + Best Model Performance" />
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/1b38d7e0-8257-4c48-aaa2-178e110800eb" width="100%" alt="Model Comparison" />
     </td>
-    <td valign="top" width="33%">
-      <img src="https://github.com/user-attachments/assets/3e449718-0961-4666-a9b3-c60af176370c" width="100%" alt="Example Predicted Forecast" />
-    </td>
-    <td valign="top" width="33%">
-      <img src="https://github.com/user-attachments/assets/641ae66a-89b6-4a27-8629-2457eea5037e" width="100%" alt="Battery Arbitrage Backtest" />
+    <td width="50%">
+      <img src="https://github.com/user-attachments/assets/3e449718-0961-4666-a9b3-c60af176370c" width="100%" alt="Predicted Forecast" />
+      <br><br> <img src="https://github.com/user-attachments/assets/641ae66a-89b6-4a27-8629-2457eea5037e" width="100%" alt="Battery Arbitrage Backtest" />
     </td>
   </tr>
 </table>
