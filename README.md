@@ -13,9 +13,9 @@ This repository contains the **final runnable pipeline (Sections 4–6)** of our
 ---
 
 ## Key results (test set)
-- **Price forecasting (XGBoost + SVR):** R² ≈ **0.87**, RMSE ≈ **13.35 EUR/MWh**, MAE ≈ **9.16 EUR/MWh**
-- **Extreme price spike detection (95th percentile):** F1 ≈ **0.63**
-- **Battery arbitrage backtest (100 MW / 200 MWh):** ~**€3.99M**, capturing ~**90%** of perfect-foresight upper bound
+- **Price forecasting (XGBoost + SVR):** R² ≈ **0.88**, RMSE ≈ **12.49 EUR/MWh**, MAE ≈ **8.73 EUR/MWh**
+- **Extreme price spike detection (95th percentile):** F1 ≈ **0.59**
+- **Battery arbitrage backtest (100 MW / 200 MWh):** ~**€4.016M**, capturing ~**90.7%** of perfect-foresight upper bound
 
 ---
 
@@ -32,6 +32,7 @@ Located in: `data/step2_prices/`
 - `demanddata_2021-2025.csv`
 - `SAP.xlsx` *(gas prices)*
 - `Carbon Emissions Futures Historical Data UK.csv`
+- `Final_Price_Predictions_Ensemble.csv`
 - `wind_100Locs_XGBoost_WalkForward_Clean_PREDICTED-weather-data.csv` *(predicted wind input)*
 - `xgboost_cv_predictions.csv` *(predicted solar/PV input)*
 
