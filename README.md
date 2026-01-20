@@ -17,10 +17,7 @@ This repository contains the **final runnable pipeline (Sections 4–6)** of our
 - **Extreme price spike detection (95th percentile):** F1 ≈ **0.59**
 - **Battery arbitrage backtest (100 MW / 200 MWh):** ~**€4.016M**, capturing ~**90.7%** of perfect-foresight upper bound
 
-<img width="921" height="603" alt="Model Comparison + Best Model Performance" src="https://github.com/user-attachments/assets/1b38d7e0-8257-4c48-aaa2-178e110800eb" />
-
-<img width="905" height="296" alt="Example Predicted Forecast " src="https://github.com/user-attachments/assets/3e449718-0961-4666-a9b3-c60af176370c" />
-
+<img width="921" height="603" alt="Model Comparison + Best Model Performance" src="https://github.com/user-attachments/assets/1b38d7e0-8257-4c48-aaa2-178e110800eb" /> <img width="905" height="296" alt="Example Predicted Forecast " src="https://github.com/user-attachments/assets/3e449718-0961-4666-a9b3-c60af176370c" /> 
 <img width="924" height="386" alt="Battery Arbitrage Backtest " src="https://github.com/user-attachments/assets/641ae66a-89b6-4a27-8629-2457eea5037e" />
 
 ---
